@@ -1,3 +1,10 @@
-name, date, description
+Donald Disha 4/6/2015
 
-be sure to include complete details of how to interact with your game, the scoring system, and how to win
+My game is a 2D side scroller in which you are a spaceship escaping from the planet Xenu after you 
+infiltrated their planet and foiled their plans to turn rain into candy. The Xenu leader wants 
+you destroyed so he keeps throwing wierd rectangular objects at you to blow up your ship. 
+
+Movement is done with the arrow keys, each object you avoid gives you a score of 2500 points and collision
+with the object sets your score to 0.
+
+To win this game, you only need to get 50000 points!
