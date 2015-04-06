@@ -8,3 +8,5 @@ Movement is done with the arrow keys, each object you avoid gives you a score of
 with the object sets your score to 0.
 
 To win this game, you only need to get 50000 points!
+
+P.S Rocket Ship, Background, and Object color are random and change every time you refresh page!
