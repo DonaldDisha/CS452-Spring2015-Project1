@@ -11,6 +11,10 @@ var c2 = randomIntpos(255)/255;
 var c3 = randomIntpos(255)/255; 
 var c4 = randomIntpos(255)/255;
 
+var b1 = randomIntpos(255)/255;
+var b2 = randomIntpos(255)/255;
+var b3 = randomIntpos(255)/255; 
+
 var ynewpos;
 
 var score = 0;
@@ -68,7 +72,7 @@ window.onload = function init()
 	if ( !gl ) { alert( "WebGL isn't available" ); }
 
 	gl.viewport( 0, 0, canvas.width, canvas.height );
-	gl.clearColor( c1,c2, c3, 1.0 );	
+	gl.clearColor( b1,b2, b3, 1.0 );	
 	
 	startTimer();
 	
